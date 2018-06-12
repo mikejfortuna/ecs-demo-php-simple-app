@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App - VERSION 4</h1>
+                <h1>Simple PHP App - VERSION 1</h1>
                 <h2>Congratulations</h2>
                 <h3>Hostname is: <?php echo gethostname(); ?></h3>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
